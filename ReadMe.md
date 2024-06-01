@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 Sou estudante de progamação Iniciante | 18 anos| Em busca de conhecimento sempre<br>| Cristão<br>
+🔭 Sou estudante de desenvolvimento full-stack | 19 anos| Em busca de conhecimento sempre<br>| Cristão<br>
 
 
 ## 🌐 Socials:
