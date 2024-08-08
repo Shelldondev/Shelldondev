@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 Sou estudante de desenvolvimento full-stack | 19 anos| Em busca de conhecimento sempre<br>| Cristão<br>
+🔭 Estudante Fullstack | JavaScript | React Native | MySQL | SQL | PHP | Python | Java | Mobile | NodeJs<br>|
 
 
 ## 🌐 Socials:
